@@ -1,0 +1,11 @@
+# Ignore environment variables and secrets
+.env
+# Ignore Python virtual environments
+.venv/
+venv/
+# Ignore ChromaDB database directory
+.chroma_db/
+chroma_db/
+
+#Ignore Agent
+.agents/
